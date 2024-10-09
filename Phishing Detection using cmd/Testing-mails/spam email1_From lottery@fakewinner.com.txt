@@ -1,0 +1,24 @@
+From: lottery@fakewinner.com
+Return-Path: <lottery@fakewinner.com>
+Delivered-To: youremail@example.com
+Received: from localhost (localhost [127.0.0.1])
+    by mailserver.fakewinner.com (Postfix) with ESMTP id A1B2C3D4E5
+    for <youremail@example.com>; Fri, 1 Sep 2023 08:00:00 -0400 (EDT)
+To: youremail@example.com
+Message-ID: <4567ABCD.12345@example.com>
+Priority: high
+X-Mailer: FakeMail for Windows
+MIME-Version: 1.0
+Subject: Congratulations! You have won $1,000,000
+Reply-To: claim@fakewinner.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Winner,
+
+Congratulations! You have been selected as the winner of our grand lottery prize of $1,000,000! This is a once-in-a-lifetime opportunity. To claim your prize, please reply to this email with your full name, address, and bank account details.
+
+Hurry, as this offer is valid for a limited time!
+
+Best regards,
+The Fake Lottery Team

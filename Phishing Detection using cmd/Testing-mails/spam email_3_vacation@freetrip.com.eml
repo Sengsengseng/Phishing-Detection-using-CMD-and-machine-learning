@@ -1,0 +1,24 @@
+From: vacation@freetrip.com
+Return-Path: <vacation@freetrip.com>
+Delivered-To: youremail@example.com
+Received: from localhost (localhost [127.0.0.1])
+    by mailserver.freetrip.com (Postfix) with ESMTP id A1B2C3D4E5
+    for <youremail@example.com>; Wed, 4 Sep 2023 12:40:00 -0400 (EDT)
+To: youremail@example.com
+Message-ID: <4567ABCD.12345@example.com>
+Priority: high
+X-Mailer: FakeMail for Windows
+MIME-Version: 1.0
+Subject: You've Won a Free Vacation! Claim Now!
+Reply-To: claims@freetrip.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Traveler,
+
+Congratulations! You have won an all-expenses-paid vacation to the destination of your dreams! Claim your free trip now by clicking the link below and submitting your details: http://faketours.com/claim-free-trip
+
+This offer is available for a limited time, so hurry up!
+
+Best regards,
+The Free Trip Team

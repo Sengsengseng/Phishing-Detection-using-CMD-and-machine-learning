@@ -1,0 +1,31 @@
+From: notifications@city-hospital.com
+Return-Path: notifications@city-hospital.com
+Delivered-To: youremail@example.com
+Received: from hospital.system (hospital.system [10.50.60.70])
+by mailserver.city-hospital.com (Postfix) with ESMTP id QWER7890
+for youremail@example.com; Thu, 7 Sep 2023 15:20:35 -0400 (EDT)
+To: youremail@example.com
+Message-ID: 5678UIOP.34567@city-hospital.com
+Priority: high
+X-Mailer: HealthCareMail for Windows
+MIME-Version: 1.0
+Subject: Important: Verify Your Patient Information
+Reply-To: support@city-hospital.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Patient,
+
+Due to a recent system update, we require you to verify your patient information to ensure the accuracy of your medical records. Please click the link below to confirm your details:
+
+Verify Your Patient Information
+
+It is crucial that you verify this information within 48 hours to avoid delays in medical treatment.
+
+If you believe this message was sent in error or have concerns, contact us immediately: support@city-hospital.com.
+
+Thank you for your cooperation.
+
+Sincerely,
+City Hospital Administration
+www.city-hospital.com

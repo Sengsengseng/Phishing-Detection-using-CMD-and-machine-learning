@@ -1,0 +1,31 @@
+From: info@healthclinic.com
+Return-Path: info@healthclinic.com
+Delivered-To: youremail@example.com
+Received: from clinic.system (clinic.system [10.10.20.30])
+by mailserver.healthclinic.com (Postfix) with ESMTP id LMNOP9876
+for youremail@example.com; Wed, 6 Sep 2023 12:35:19 -0400 (EDT)
+To: youremail@example.com
+Message-ID: 0987ZXCV.54321@healthclinic.com
+Priority: high
+X-Mailer: ClinicMail for Windows
+MIME-Version: 1.0
+Subject: Urgent: Update Your Health Records
+Reply-To: support@healthclinic.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Patient,
+
+We are updating our systems to enhance the security of your health records. Please update your information by clicking on the link below:
+
+Update Health Records
+
+Please complete this process within 48 hours to ensure uninterrupted access to your health information.
+
+If you have any questions or did not request this, please contact us at support@healthclinic.com.
+
+Thank you for your prompt response.
+
+Sincerely,
+Health Clinic Team
+www.healthclinic.com

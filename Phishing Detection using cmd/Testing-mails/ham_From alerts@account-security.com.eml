@@ -1,0 +1,31 @@
+From: alerts@account-security.com
+Return-Path: alerts@account-security.com
+Delivered-To: youremail@example.com
+Received: from security.account.com (security.account.com [192.168.0.1])
+by mailserver.account-security.com (Postfix) with ESMTP id XYZ1234
+for youremail@example.com; Wed, 6 Sep 2023 09:15:23 -0400 (EDT)
+To: youremail@example.com
+Message-ID: 9876ABCD.54321@example.com
+Priority: high
+X-Mailer: SecureMail for Windows
+MIME-Version: 1.0
+Subject: Urgent: Your Account is Suspended
+Reply-To: support@account-security.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Dear Valued Customer,
+
+We have detected unusual activity on your account, and, as a precaution, it has been temporarily suspended. To avoid further interruption and regain access to your account, please verify your identity by clicking the link below:
+
+Verify Your Account Now
+
+Please note that if you do not complete the verification process within 24 hours, your account will be permanently suspended and you will no longer have access to your services.
+
+If you did not attempt to log in, or believe this message was sent in error, please contact our support team immediately: support@account-security.com.
+
+Thank you for your immediate attention to this matter.
+
+Sincerely,
+Account Security Team
+Customer Protection Services
+www.account-security.com

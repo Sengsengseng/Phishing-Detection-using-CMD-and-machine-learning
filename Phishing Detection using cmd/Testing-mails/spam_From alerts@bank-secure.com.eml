@@ -1,0 +1,31 @@
+From: alerts@bank-secure.com
+Return-Path: alerts@bank-secure.com
+Delivered-To: youremail@example.com
+Received: from secure.bank.com (secure.bank.com [172.16.0.1])
+by mailserver.bank-secure.com (Postfix) with ESMTP id ABCD1234
+for youremail@example.com; Wed, 6 Sep 2023 09:15:23 -0400 (EDT)
+To: youremail@example.com
+Message-ID: 9876XYZA.67890@example.com
+Priority: high
+X-Mailer: SecureMail for Windows
+MIME-Version: 1.0
+Subject: Urgent: Verify Your Account to Avoid Suspension
+Reply-To: support@bank-secure.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Valued Customer,
+
+We have detected suspicious activity on your account, and as a result, we have temporarily restricted access for your security. To avoid permanent suspension, it is crucial that you verify your identity by following the link below:
+
+Verify Your Account
+
+This verification is required to protect your account and ensure your financial information remains safe. If you do not complete the verification within 24 hours, your account may be permanently restricted.
+
+If you did not initiate this request, please contact our support team immediately at: support@bank-secure.com.
+
+We take your security seriously. Thank you for your prompt attention to this matter.
+
+Best regards,
+Bank Security Team
+www.bank.com

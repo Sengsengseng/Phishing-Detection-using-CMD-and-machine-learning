@@ -1,0 +1,50 @@
+From: john.doe@companydomain.com
+Return-Path: <john.doe@companydomain.com>
+Delivered-To: someone@example.com
+Received: from localhost (localhost [127.0.0.1])
+    by mailserver.companydomain.com (Postfix) with ESMTP id A1B2C3D4E5
+    for <someone@example.com>; Tue, 5 Sep 2023 09:15:07 -0400 (EDT)
+Received: from mailserver [127.0.0.1]
+    by localhost with IMAP (fetchmail-6.4.2)
+    for someone@example.com (single-drop); Tue, 5 Sep 2023 14:15:07 +0100 (BST)
+Received: from senderdomain.com (senderdomain.com [192.168.1.1])
+    by relay.mailserver.com (8.14.1/8.14.1) with ESMTP id BCD123456789
+    for <someone@example.com>; Tue, 5 Sep 2023 14:15:03 +0100
+X-Sender: john.doe@companydomain.com
+To: recipientgroup@example.com
+Message-ID: <4567ABCD.12345@example.com>
+Priority: normal
+X-Mailer: Outlook for Windows (v16.0)
+MIME-Version: 1.0
+Mailing-List: list recipientgroup@example.com; contact admin@example.com
+Delivered-To: mailing list recipientgroup@example.com
+Precedence: bulk
+List-Unsubscribe: <mailto:unsubscribe@example.com>
+Date: Tue, 5 Sep 2023 14:15:02 +0100
+Subject: [Important] New Guidelines and Updates
+Reply-To: john.doe@companydomain.com
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear Team,
+
+As part of our ongoing efforts to improve our processes, we are implementing a new set of guidelines that will take effect starting from October 1st, 2023. These guidelines will ensure that we remain compliant with industry standards and continue to deliver quality results.
+
+Key highlights of the changes:
+- Updated reporting templates for client interactions
+- New security protocols for data handling
+- Extended support hours for customer inquiries
+
+We encourage you to review the full document [here](http://companydomain.com/guidelines) and familiarize yourself with the changes. Training sessions will be conducted to address any questions or concerns you might have.
+
+If you have any questions, feel free to reach out to the compliance team at compliance@companydomain.com.
+
+Best regards,  
+John Doe  
+Compliance Officer  
+Company Domain
+
+---
+
+To unsubscribe from this mailing list, send an email to: unsubscribe@example.com  
+Your use of this mailing list is subject to [Terms and Conditions](http://companydomain.com/terms).
